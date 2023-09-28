@@ -1,6 +1,6 @@
 import random
 while True:
-    my_answer=input("choose:rock,paperor scissors")
+    my_answer=input("choose:rock,paper,scissors")
     my_answer=my_answer.lower()
     if my_answer=="quit":
         break
